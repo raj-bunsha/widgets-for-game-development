@@ -5,10 +5,5 @@
 3.To create csv file for getting the location of objects
 4.To change the camera system and focus on the player
 5.A basic overview and a sample code to start pygame with basic code already mapped
-/n
-/n
-/n
-/n
-/n
-/n
-<i>in development</i>
+<h6>work in progress</h6>
+<i color="red">widgets In Development and to be released soon</i>
